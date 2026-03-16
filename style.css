@@ -1,0 +1,63 @@
+body {
+font-family: Arial;
+margin: 0;
+background-color: #f4f4f4;
+}
+
+header {
+background: #333;
+color: white;
+padding: 15px;
+text-align: center;
+}
+
+nav ul {
+list-style: none;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin: 10px;
+}
+
+nav ul li a {
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+section {
+padding: 20px;
+background: white;
+margin: 20px;
+border-radius: 5px;
+}
+
+h2 {
+color: #333;
+}
+
+form input, form select {
+width: 250px;
+padding: 8px;
+}
+
+button {
+background: #007BFF;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+
+button:hover {
+background: yellow;
+}
+
+footer {
+text-align: center;
+background: #333;
+color: white;
+padding: 10px;
+}
